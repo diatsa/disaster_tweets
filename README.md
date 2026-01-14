@@ -106,4 +106,4 @@ disaster_tweets/
 * The NLP and machine learning community for pre-trained models and tools
 
 ## License
-This project was created for educational purposes as part of the Upskill program.
+This project was created for educational purposes as part of the Upskill program.# fake_and_real_news
